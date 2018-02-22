@@ -1,0 +1,168 @@
+body
+{
+	padding-top: 51px;
+
+}
+.cadre{border: 1px solid red;}
+
+.police
+{
+	font-family: Maiandra GD
+
+}
+.main-logo
+{
+	margin-left: 100px !important;
+}
+
+.main-menu
+{
+	margin-right: 215px !important;
+}
+
+#section00
+{
+	background: transparent url("../image/back01.jpg") no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+
+}
+
+#section4
+{
+	background: transparent url("../image/contact_back.jpg") no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+
+}
+.main-titre
+{
+	color: #ffb600;
+	font-family: Maiandra GD;
+	margin-top: 200px;
+	margin-bottom: 200px;
+}
+
+.main-bouton
+{
+	margin-top: 150px;
+	//text-align: center;
+}
+
+.my-buton
+{
+	width: 250px;
+	height: 45px;
+	font-size: 20px;
+
+}
+
+.ligne-formation
+{
+	//border: 1px solid blue;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+.ligne-formation-img
+{
+	//border: 1px solid blue;
+	padding-top: 70px;
+	padding-bottom: 150px;
+}
+
+.my-img
+{
+	cursor: pointer;
+	width: 250px;
+	height: 250px;
+	padding: 10px !important;
+}
+
+.my-img-lang
+{
+	cursor: pointer;
+	width: 160px;
+	height: 250px;
+	padding: 10px !important;
+}
+
+.ligne-experiences-img
+{
+	//border: 1px solid blue;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+.c{background:#CCC}
+
+.lingui
+{
+	width: 100px;
+	height: 300px;
+}
+
+.main-titre-contact
+{
+	color: #ffb600;
+	font-family: Maiandra GD;
+	margin-top: 90px;
+	margin-bottom: 150px;
+}
+
+
+.main-a-contact
+{
+	//border: 1px solid red;
+	font-size: 20px;
+	color: #FFFFFF;
+	margin-bottom: 30px;
+}
+
+.main-a-contact:hover
+{
+	//border: 1px solid red;
+	font-size: 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+	color:#FFB600;
+}
+
+.main-contact
+{
+	margin-top: 100px;
+	//text-align: center;
+}
+
+
+.my-buton-envoyer
+{
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	//border: 1px solid red;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+
+input
+{
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+.rs:hover
+{
+
+	transition: 1s !important;
+	
+}
+
+
+
